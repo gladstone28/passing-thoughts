@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/passing-thoughts/static/css/main.d3e78b48.css",
+    "main.js": "/passing-thoughts/static/js/main.ac05d37d.js",
+    "index.html": "/passing-thoughts/index.html",
+    "main.d3e78b48.css.map": "/passing-thoughts/static/css/main.d3e78b48.css.map",
+    "main.ac05d37d.js.map": "/passing-thoughts/static/js/main.ac05d37d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e78b48.css",
+    "static/js/main.ac05d37d.js"
+  ]
+}
